@@ -176,7 +176,7 @@ We also have a Zenodo citation:
 Kurtzer, Gregory M.. (2016). Singularity 2.1.2 - Linux application and environment
 containers for science. 10.5281/zenodo.60736
 
-http://dx.doi.org/10.5281/zenodo.60736
+https://doi.org/10.5281/zenodo.60736
 ```
 
 # Webpage
