@@ -1,8 +1,8 @@
-#Project Lead:
+# Project Lead:
 
     - Gregory M. Kurtzer <gmkurtzer@gmail.com>
 
-#Developers:
+# Developers:
 
     - Cedric Clerget <cedric.clerget@univ-fcomte.fr>
     - Dave Dykstra <dwd@fnal.gov>
@@ -14,7 +14,7 @@
     - Vanessa Sochat <vsochat@stanford.edu>
     - Yannick Cote <yhcote@gmail.com>
 
-#Contributors:
+# Contributors:
 
     - Afif Elghraoui <afif.elghraoui@nih.gov>
     - Amanda Duffy <aduffy@lenovo.com>
