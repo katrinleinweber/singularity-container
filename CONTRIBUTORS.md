@@ -32,6 +32,7 @@
     - Jeff Kriske <jekriske@gmail.com>
     - Josef Hrabal <josef.hrabal@vsb.cz>
     - Justin Riley <justin_riley@harvard.edu>
+    - Katrin Leinweber <katrin.leinweber@uni-konstanz.de>
     - Maciej Sieczka <msieczka@sieczka.org>
     - Mark Egan-Fuller <markeganfuller@googlemail.com>
     - Nathan Lin <nathan.lin@yale.edu>
